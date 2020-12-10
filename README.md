@@ -18,10 +18,15 @@ First step is to set the sizes to match the somewhat nonproportional original
 Foster-style graphics. The main differences are foreshortened sprites in the |
 direction, and similarly squashed sprites in the -- direction.
 
+With suitable sprite sizes set up in the manifest (using the automatic
+height setting by omitting `height` where possible), the first output using
+default settings looks like this:
+
 ![](history/1/progress.png)
 
-We have two major noticeable issues - blurriness, and the roof shading not
-matching the Foster originals. Let's start with the roof shading.
+Straight away we have two major noticeable issues - blurriness in the diagonal
+views, and the  roof shading not matching the Foster originals. Let's start 
+with the roof shading.
 
 ## Roof Shading
 
