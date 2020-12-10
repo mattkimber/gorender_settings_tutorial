@@ -72,7 +72,7 @@ around the vents, and a few stray pixels creeping in.
 ## Render settings
 
 Most of GoRender's built-in manifests use the Poisson Disc sampler.
-This is great for buildings and other objects with have a grainy, somewhat
+This is great for buildings and other objects which have a grainy, somewhat
 noisy appearance in the original graphics - it avoids repeating artefacts
 at the cost of adding the odd stray pixel.
 
@@ -116,7 +116,7 @@ completely wrong by now. But with things looking quite close to how we want
 them, it's now safe to put effort into the model.
 
 We are now very close to the original style (albeit with a few differences,
-voxel rendering still has a way to go!)4
+voxel rendering still has a way to go!)
 
 ![](history/5/progress.png)
 
